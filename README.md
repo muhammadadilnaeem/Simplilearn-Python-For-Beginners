@@ -79,7 +79,8 @@ You can access the **Learn Python Basics** course on Simplilearn [here](https://
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-adil-naeem/) and explore my other projects on [GitHub](https://github.com/muhammadadilnaeem).
 
 ## Credit
-All credit for content and motivation to complete this course goes to [simplilearn](https://www.simplilearn.com/learn-python-basics-free-course-skillup?tag=Python-for-Beginners)
+All credit for content and motivation to complete this course goes to [simplilearn](
+https://simpli-web.app.link/e/D3Lvi2dJmNb).
 
 ---
 
